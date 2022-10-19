@@ -5,3 +5,6 @@ body{
     color: #00ff00;
     font-family: monospace;
 }
+hr{
+    border: 1px solid #00ff00;
+}
